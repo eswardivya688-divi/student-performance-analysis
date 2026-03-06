@@ -73,4 +73,11 @@ plt.title("Grade Distribution")
 plt.ylabel("")
 
 plt.show()
+# Plot average marks
+data.plot(x="Name", y="Average", kind="bar", title="Student Average Marks")
+
+plt.ylabel("Average Marks")
+plt.xlabel("Student Name")
+plt.show()
+
 
