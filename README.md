@@ -29,3 +29,6 @@ pip install pandas matplotlib
 
 3. Run the program
 python analysis.py
+## Output
+
+![Output](output.png)
